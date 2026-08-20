@@ -1,0 +1,5 @@
+west:
+  command: /Library/Frameworks/Python.framework/Versions/3.13/bin/west build -d build/right
+    -b nice_nano_v2 -- -DSHIELD=achroma_right
+  topdir: /Users/xinyi/Projects/zmk-config-Achroma
+  version: 1.5.0
